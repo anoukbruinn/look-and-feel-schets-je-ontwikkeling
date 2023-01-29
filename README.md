@@ -2,7 +2,12 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+#Praatplaat maken
+
+Voor deze leertaak heb ik een praatplaat gemaakt. de praatplaat dat ik uiteindelijk heb gekozen is deze praatplaat:
+
+<img width="507" alt="image" src="https://user-images.githubusercontent.com/112856687/215327242-38b5183d-6dd1-4c8c-a73f-d298a72a7ee5.png">
+
 
 
 ## Licentie
